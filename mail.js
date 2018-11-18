@@ -5,8 +5,8 @@ var transporter = nodemailer.createTransport(poolConfig);
 
 var registerMessage = {
     from: 'catdoge484848@gmail.com',
-    to: 'j3530980@nwytg.net',
-    subject: 'Patient Account Info',
+    to: 'j3628927@nwytg.net',
+    subject: 'Confirmed Registration!',
     html: '<h3>Thank you for signing up!</h3><br><p> get them tenders boiii </p>',
                     
 }
